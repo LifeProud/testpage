@@ -2,6 +2,14 @@
   box-sizing: border-box;
 }
 
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
+
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN", sans-serif;
@@ -115,15 +123,6 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-/* menu-iconのCSSを貼り付けてください */
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  /* displayをnoneに指定してください */
-  display: none;
-}
 
 
 .lesson-wrapper {
