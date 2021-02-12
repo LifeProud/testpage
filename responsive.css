@@ -43,7 +43,7 @@
   
   /* menu-iconクラスのdisplayをblockに指定してください  */
   .menu-icon{
-    display: block;
+    /*display: block;*/
   }
   
   .top-wrapper h1 {
