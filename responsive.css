@@ -42,7 +42,7 @@
   }
   
   /* menu-iconクラスのdisplayをblockに指定してください  */
-  .menu-icon{
+  #menu-icon-display{
     display: block;
   }
   
